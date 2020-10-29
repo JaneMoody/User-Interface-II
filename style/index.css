@@ -239,6 +239,14 @@ footer button {
   margin: 2%;
 }
 
+footer .links {
+  width: 100%;
+}
+
+footer .links a {
+  font-size: 2rem;
+}
+
 /* .row {
   display: flex;
   flex-wrap: wrap;
